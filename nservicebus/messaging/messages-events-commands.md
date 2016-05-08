@@ -76,5 +76,4 @@ public class MyCommand : ICommand { }
 
 public class MyEvent : IEvent { }
 
-public interface MyEvent : IEvent { }
 ```
